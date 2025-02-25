@@ -49,7 +49,7 @@ author:
 home:
   section1: <h1>听 松 阁</h1>
   section2: <h2>归来卧松云，微凉送晚风。枕上听松语，槛外看潮生!</h2>
-  section3: <div class="social-links"><a href="./blog/" title="听 松 阁">ENTER BLOG</a></div>
+  section3: <div class="social-links"><a class="ico-github btn" href="./blog/" title="View on GitHub"></a></div>
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
   cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
